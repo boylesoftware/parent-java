@@ -30,6 +30,7 @@
 	</organization>
 
 	<scm>
+		<connection>scm:git:https://github.com/boylesoftware/parent-java.git</connection>
 		<developerConnection>scm:git:git@github.com:boylesoftware/parent-java.git</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
